@@ -10,6 +10,17 @@
     "api": "csp_Nostr",
     "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
   },
+   {
+      "api": "csp_fwngye",
+      "click": "",
+      "homePage": "file:///storage/emulated/0/Download/html/枫叶.html",
+      "id": "c3731269bb6187cd029acee394f9941a",
+      "key": "FY",
+      "name": "🐬枫叶影视",
+      "playUrl": "",
+      "type": 3,
+      "webHome": true
+    },
       {
       "key": "非凡",
       "name": "🐬非凡影视",
