@@ -870,15 +870,6 @@
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
-	    {
-            "name": "🐬海外专线(梯子)",
-            "type": 0,
-            "url": "http://194.147.100.173/box/tvzb9.txt",
-            "playerType": 2,
-            "ua": "okhttp",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
         { 
 	        "name": "🐬午夜剧场🔞",
             "type": 0,
