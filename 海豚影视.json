@@ -347,15 +347,6 @@
             "searchable": 1,
             "filterable": 0
         },
-		{
-            "key": "X滴滴",
-            "name": "🐬滴滴｜🔞",
-            "type": 1,
-            "api": "https://api.ddapi.cc/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
 	{
       "key": "*AIvin",
       "name": "🐬AIvin｜🔞",
