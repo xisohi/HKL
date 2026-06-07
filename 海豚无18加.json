@@ -661,7 +661,7 @@
             "name": "🐬中港台直播源",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://t.freetv.fun/m3u/playlist.txt"
+            "url": "https://t.freetv.fun/m3u/playlist_all.txt"
         },
         {
             "name": "🐬4GTV(梯子台湾节点)720p",
