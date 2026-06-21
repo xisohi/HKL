@@ -593,12 +593,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"
         },
-	    {
-            "name": "🐬好朋友直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%87%A0%E4%B8%87%E7%94%B5%E5%BD%B1%E9%A2%1%E9%81%93.m3u"
-        },
 		{
             "name": "🐬咪咕直播",
             "type": 0,
@@ -612,6 +606,12 @@
             "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
         },
         {
+            "name": "🐬小新TV",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://d.kstore.dev/download/9565/小新TV.txt"
+        },
+	    {
             "name": "🐬北美长城源",
             "type": 0,
             "ua": "okhttp",
