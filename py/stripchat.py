@@ -19,12 +19,9 @@ sys.path.append('..')
 class Spider(Spider):
 
     def init(self, extend="{}"):
-        origin = 'https://zh.stripol.com/'
-        self.host = origin
+        self.host='https://zh.stripol.com/'
         self.headers = {
-            'Origin': origin,
-            'Referer': f"{origin}/",
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0'
         }
         self.stripchat_key = self.decode_key_compact()
         # 缓存字典
