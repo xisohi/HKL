@@ -132,6 +132,12 @@
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱壹帆.py"
         },
 		{
+          "key": "xhvm",
+          "name": "🐬骚火影视.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/骚火影视.py"
+        },
+		{
           "key": "MH",
           "name": "🐬麻花影视.py",
           "type": 3,
